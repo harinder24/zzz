@@ -1,0 +1,17 @@
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.AssemblyReference.cache
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CopyComplete
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\hss02\Source\Repos\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.genruntimeconfig.cache

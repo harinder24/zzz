@@ -1,0 +1,13 @@
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\bin\Debug\netcoreapp3.1\DocRepAsync.deps.json
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\bin\Debug\netcoreapp3.1\DocRepAsync.dll
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\bin\Debug\netcoreapp3.1\DocRepAsync.pdb
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\bin\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\bin\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.csproj.AssemblyReference.cache
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.AssemblyInfoInputs.cache
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.AssemblyInfo.cs
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.csproj.CoreCompileInputs.cache
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.csproj.CopyComplete
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.dll
+C:\Users\hss02\Source\Repos\assignment3\DocRepAsync\obj\Debug\netcoreapp3.1\DocRepAsync.pdb

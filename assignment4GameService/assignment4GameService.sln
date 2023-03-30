@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment4GameService", "assignment4GameService\assignment4GameService.csproj", "{9F409AF0-B301-42D8-91AD-20442CBA9DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApi", "webApi\webApi.csproj", "{E1023CC7-3432-44EC-AE1E-6819B0600834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F409AF0-B301-42D8-91AD-20442CBA9DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F409AF0-B301-42D8-91AD-20442CBA9DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F409AF0-B301-42D8-91AD-20442CBA9DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F409AF0-B301-42D8-91AD-20442CBA9DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1023CC7-3432-44EC-AE1E-6819B0600834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1023CC7-3432-44EC-AE1E-6819B0600834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1023CC7-3432-44EC-AE1E-6819B0600834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1023CC7-3432-44EC-AE1E-6819B0600834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F36146A-492F-4481-B0BB-87CE095ACDAB}
+	EndGlobalSection
+EndGlobal
